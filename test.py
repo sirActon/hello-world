@@ -1,4 +1,5 @@
 import pandas as pd
 import random
 
-print("Just warming up")
+if __name__ == "__main__":
+    print("hello world")
